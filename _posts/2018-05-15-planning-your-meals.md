@@ -5,7 +5,6 @@ ref: planning-for-your-meals
 date: 2018-05-15 22:52:44 -0700
 lang: en
 ---
-## Planning for your meals
 
 If you’re a foodie like me and you’re struggling on maintaining a healthy lifestyle, this may be a great tip for you. Plan your meals in advance. I plan my meals every week and man, it certainly did make my life a lot easier (and way less guilt when I’m feeling naughty on Friday evenings!) Don’t get intimidated with the planning. Meal planning can be simple and fun. It comes with plenty of benefits once it becomes a habit. Plus, I get to start fantasizing for all my meals a week in advance (Mmmmm~~~ kimchi fried rice~ mushroom risotto~ spicy dumplings~~~ *o,*)  Ahhh~ what an awesome way to start the week! :p
 
